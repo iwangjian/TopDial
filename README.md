@@ -3,7 +3,8 @@ This repository contains code and data for the paper [Target-oriented Proactive 
 
 ## Overview
 
-<p align="center"><img width="80%" src="./imgs/framework.png" /></p>
+<p align="center"><img width="75%" src="./imgs/framework.png" /></p>
+
 Target-oriented dialogue systems, designed to proactively steer conversations toward predefined targets or accomplish specific system-side goals, are an exciting area in conversational AI. In this work, by formulating a <dialogue act, topic> pair as the conversation target, we explore a novel problem of personalized target-oriented dialogue by considering personalization during the target accomplishment process. However, there remains an emergent need for high-quality datasets, and building one from scratch requires tremendous human effort. To address this, we propose an automatic dataset curation framework using a role-playing approach. Based on this framework, we construct a large-scale personalized target-oriented dialogue dataset, **TopDial**, which comprises about 18K multi-turn dialogues.
 
 
