@@ -116,7 +116,7 @@ def create_instruct(
     # Describe the moderator
     moderator_desc = "You are the moderator of a conversation. You need to determine whether the discussion between Role-S and Role-U should come to an immediate end.\n"
     moderator_desc += "The conversation should conclude under the following two conditions:\n"
-    moderator_desc += "(1) If Role-S completes {} recommendation on \"{}\" and Role-U accepts it, and Role-S does not take the initiative for two rounds.\n".format(domain, target[1])
+    moderator_desc += "(1) If Role-S completes {} recommendation on \"{}\" and Role-U accepts it, and Role-S no longer takes the initiative for two rounds.\n".format(domain, target[1])
     moderator_desc += "(2) If Role-U explicitly rejects Role-S's recommendation on \"{}\" when Role-S has tried to recommend it for the second time.\n".format(target[1])
     moderator_desc += "In either of these cases, the conversation should be brought to an immediate end.\n\n"
 
