@@ -1,5 +1,5 @@
 # TopDial
-This repository contains code and data for the paper [Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation]() (to be updated) accepted by EMNLP 2023.
+This repository contains code and data for the paper [Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation](http://arxiv.org/abs/2310.07397) accepted by EMNLP 2023.
 
 ## Overview
 
