@@ -9,7 +9,7 @@ Target-oriented dialogue systems, designed to proactively steer conversations to
 
 
 ## Dataset
-We upload the curated **TopDial** dataset to the OneDrive cloud. Please download it from this OneDrive [link](https://connectpolyu-my.sharepoint.com/:u:/g/personal/21037774r_connect_polyu_hk/ETGnhjxr-UNLqYk2dEy9O2MBCcWSsiyedyHH8iKBFECuvg?e=JvDjnk).
+We upload the curated **TopDial** dataset to the OneDrive cloud. Please download it from this OneDrive [link](https://connectpolyu-my.sharepoint.com/:u:/g/personal/21037774r_connect_polyu_hk/EftqMq3DT99PprYnTMA_NrUBN3BxoxY2-5CLTjkYJS9rmg?e=R73KO4).
 
 
 ## Dataset Curation
