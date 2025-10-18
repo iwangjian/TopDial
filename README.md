@@ -9,7 +9,7 @@ Target-oriented dialogue systems, designed to proactively steer conversations to
 
 
 ## Dataset
-We upload the curated **TopDial** dataset to the OneDrive cloud. Please download it from this OneDrive [link](https://connectpolyu-my.sharepoint.com/:u:/g/personal/21037774r_connect_polyu_hk/EftqMq3DT99PprYnTMA_NrUBN3BxoxY2-5CLTjkYJS9rmg?e=R73KO4).
+We upload the curated **TopDial** dataset to the [Google Drive](https://drive.google.com/file/d/1AWyjmUxYlppNCKkdK46riMF_2y0XeSI8/view?usp=sharing).
 
 
 ## Dataset Curation
@@ -22,8 +22,7 @@ pip install -r requirements.txt
 ```
 
 ### Seed Dataset
-We use the [re-purposed version](https://github.com/iwangjian/Color4Dial) of the DuRecDial 2.0 dataset as the seed dataset. For convenience of preprocessing, please download it from this OneDrive [link](https://connectpolyu-my.sharepoint.com/:u:/g/personal/21037774r_connect_polyu_hk/EfbBtbnDmfxMmSfkvVDQ810B_59L7UmdBeo-CMwuq89X6w?e=M8yocS).
-
+We use the [re-purposed version](https://github.com/iwangjian/Color4Dial) of the DuRecDial 2.0 dataset as the seed dataset.
 
 ### Step 1: Preprocessing the seed dataset
 ```python
